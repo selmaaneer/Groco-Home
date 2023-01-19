@@ -1,0 +1,170 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Helvetica, Helvetica, Arial, sans-serif;
+}
+
+
+.sec-nav{
+    background-color: #084748;
+    border: 2px solid white;
+    margin-left: 9px;
+    margin-right: 9px;
+}
+.btn-back{
+    background-color: #084748;
+}
+
+
+
+.overlay{
+    background-image: url("https://www.groco.net/media/wysiwyg/speed-boat-slider2.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: left;
+   background-position: center center;
+   border-radius: 0px 4px 4px 0px;
+}
+.banner-sec h1{
+    color: #084748;
+}
+
+
+
+.banner .overlay h1 {
+    color: #0c6668;
+    
+    
+}
+.banner .overlay h1:hover{
+    color: #084748;
+}
+
+.banner img {
+    width: 100%;
+    height: auto;
+}
+.content{
+    position: relative;
+    top: 70px;
+    background: linear-gradient(to right, #ffffff 0%, rgba(255, 255, 255, 0.2) 100%);
+}
+
+h1, .h1 {
+    font-size: 33px;
+    font-weight: bold;
+}
+button:hover{
+    cursor: pointer;
+    color: #084748;
+}
+a.active,a:hover{
+    background-color: #084748;
+}
+.d-grid button:hover{
+
+    background-color: #084748;
+    cursor: pointer;
+}
+
+.container{
+    position: relative;
+    top: -431px;
+    margin-left: -20px;
+}
+.carousel-item a{
+    color: #0c6668;
+
+}
+.clearfix a{
+    color: #0c6668;
+    text-decoration: none;
+
+}
+
+
+.media-middle {
+    vertical-align: middle;
+}
+
+
+.media-left, .media > .pull-left {
+    padding-right: 10px;
+}
+.product-name a {
+    color: #0c6668;
+    text-decoration: none;
+}
+footer li{
+
+    color: #0c6668;
+    text-decoration: none;
+    display: inline;
+    text-decoration: none;
+    color: #0c6668;
+
+}
+.widget-featured-products .block-content > ul > li.even {
+    background-color: #e6e6e6;
+}
+.media-body {
+    /* width: 10000px; */
+}
+.line-width{
+    width: 100%;
+    height: 7px;
+    background-color: #0c6668;
+}
+.pull-right {
+    float: right !important;
+}
+
+.bg-img {
+    background-image: url("https://www.groco.net/media/wysiwyg/speed-boat-slider2.jpg");
+    height: 262px !important;
+    padding-top: 100px;
+    background-size: cover;
+
+
+
+}
+.banner-sec {
+    padding-top: 163px;
+
+}
+.bg-img span {
+    font: size 33px;
+    font-weight: bold;
+    line-height: 1.1;
+
+
+}
+.bg-img p
+{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333333;
+}
+
+.box {
+    background: linear-gradient(to right, #ffffff 0%, rgba(255, 255, 255, 0.2) 100%);
+    padding: 0 0 0px 35px;
+}
+
+.box-locate {
+    margin-top: 26px;
+
+}
+
+
+
+@media screen and (max-width: 480px) {
+    .img-fluid {
+        max-width: 100%;
+        height: 500px !important;
+    }
+  }
